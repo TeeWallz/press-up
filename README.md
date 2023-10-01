@@ -20,7 +20,8 @@ secrets such as AWS credentials out of source control.*
 
 ## Commands
 To ease getting started, the following `npm` commands are provided:-
-
+* `git clone https://github.com/TeeWallz/press-up.git`
+  * Clone repo
 * `npm start`
   - Uses `docker-compose` to spin up MySql and Wordpress docker containers
 * `npm run stop`
